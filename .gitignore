@@ -1,0 +1,7 @@
+# weights
+*.pt
+
+# heavy files
+*.csv
+*.pkl
+*.pickle
